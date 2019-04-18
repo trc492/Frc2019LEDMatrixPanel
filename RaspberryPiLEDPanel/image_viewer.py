@@ -15,6 +15,7 @@ COLS = 64
 BRIGHTNESS = 0.5
 CONTRAST = 2
 
+# The time value can be left out, and if so it will default to 10 seconds.
 images = [
     {"filename": "trc-492-space.png", "time": 5},
     {"filename": "thanks.png", "time": 5}
