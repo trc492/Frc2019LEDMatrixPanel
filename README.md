@@ -1,3 +1,8 @@
+# Raspberry Pi image viewing and transition functions for Adafruit LED Matrix Panels
+* Extremely easy to add images.
+* A class, `Transitions`, with various functions for transitioning between images.
+* Support for images of any type/size.
+* Slideshow timer feature (slide-specific).
 # Arduino text/image functions for the Adafruit 64x32 LED Matrix Panel
 ### Image support
 * This system consists of two different files: one that runs on the Arduino MEGA and a Python file that you run locally.
